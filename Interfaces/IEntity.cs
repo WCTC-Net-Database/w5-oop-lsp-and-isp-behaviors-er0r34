@@ -4,8 +4,6 @@
     {
         void Attack(IEntity target);
         void Move();
-        void Fly();
         string Name { get; set; }
     }
-
 }
